@@ -4,7 +4,7 @@
 import sys
 import _testinternalcapi
 
-print("Frozen Hello World")
+print("Frozen Hello Bagus")
 print("sys.argv", sys.argv)
 config = _testinternalcapi.get_configs()['config']
 for key in (
